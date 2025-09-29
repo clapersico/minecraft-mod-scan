@@ -40,7 +40,13 @@ The repository has been initialized with a Python project structure, but the cor
 ```
 minecraft-mod-scan/
 ├── .gitignore          # Python-specific gitignore rules
-└── README.md           # Project documentation (this file)
+├── LICENSE             # MIT License
+├── README.md           # Project documentation (this file)
+├── setup.py            # Package setup configuration
+├── requirements.txt    # Project dependencies
+├── __init__.py         # Package initialization
+├── main.py             # CLI entry point
+└── scanner.py          # Core mod scanning functionality
 ```
 
 ## Installation
@@ -70,7 +76,7 @@ Contributions are welcome! As the project develops, we'll establish contribution
 
 ## License
 
-*License information will be added once determined.*
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Roadmap
 
