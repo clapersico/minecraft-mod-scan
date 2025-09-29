@@ -1,0 +1,13 @@
+# Core dependencies for Minecraft Mod Scanner
+
+# Development dependencies (will be added as needed)
+# requests>=2.25.0      # For downloading mod information from APIs
+# click>=8.0.0          # Enhanced CLI interface
+# tqdm>=4.60.0          # Progress bars for batch operations
+# colorama>=0.4.4       # Cross-platform colored terminal output
+
+# Testing dependencies (will be added when tests are implemented)
+# pytest>=6.2.0
+# pytest-cov>=2.11.0
+# black>=21.0.0         # Code formatting
+# flake8>=3.8.0         # Linting
